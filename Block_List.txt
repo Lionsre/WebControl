@@ -1,5 +1,0 @@
-127.0.0.1 www.zhihu.com
-127.0.0.1 static.zhihu.com
-127.0.0.1 www.gamersky.com
-127.0.0.1 www.hao123.com
-127.0.0.1 top.baidu.com
