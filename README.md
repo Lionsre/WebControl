@@ -1,2 +1,2 @@
 # WebControl
-Block the website by schedule assigned.
+Block Internet access according to both configuration and worktime. 
